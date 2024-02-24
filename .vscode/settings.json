@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5f222348-8aaf-4605-9c4e-5aaeffadab3d/resourceGroups/ARTrial_group/providers/Microsoft.Web/sites/ARTrial",
+    "appService.deploySubpath": "."
+}
